@@ -1,2 +1,1 @@
-# AI assignment
-This is a new repositry
+#This is a new repositry
